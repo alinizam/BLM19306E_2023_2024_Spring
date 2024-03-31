@@ -8,7 +8,7 @@ package Week06.InterfaceSegregationSolution;
  *
  * @author ali.nizam
  */
-public class Building implements ISellable{
+public class Building implements ISalable{
 
     @Override
     public void sellProduct() {

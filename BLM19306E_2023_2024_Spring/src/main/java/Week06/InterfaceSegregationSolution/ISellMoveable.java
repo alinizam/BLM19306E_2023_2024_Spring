@@ -8,6 +8,6 @@ package Week06.InterfaceSegregationSolution;
  *
  * @author ali.nizam
  */
-public interface ISellMoveable extends IMoveable,ISellable{
+public interface ISellMoveable extends IMoveable,ISalable{
     
 }

@@ -8,6 +8,6 @@ package Week06.InterfaceSegregationSolution;
  *
  * @author ali.nizam
  */
-public interface ISellable {
+public interface ISalable {
     public void sellProduct();
 }
